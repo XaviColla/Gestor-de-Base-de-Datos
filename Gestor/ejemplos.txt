@@ -1,0 +1,5 @@
+CREAR TABLA nombre CAMPOS campo1, campo2 , campoN CLAVE campo1 LONGITUD 25,25,25 ENCRIPTAR campoN
+MODIFICAR TABLA nombre CAMPO campoN POR campo2
+ELIMINAR TABLA nombre 
+CREAR REGISTRO nombre VALOR hola , mundo , java
+MODIFICAR REGISTRO nombre CLAVE hola CAMPO campo2 POR xavi

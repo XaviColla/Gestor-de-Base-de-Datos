@@ -1,0 +1,7 @@
+tabla1,4,campo1,25,25,25,campo1,campo2,campo3,ENCRIP,campo2
+tabla2,1,campo1,25,25,25,25,campo1,campo2,campo3,campo4,ENCRIP,campo2
+tabla3,0,campo1,20,25,campo1,campo2,ENCRIP,campo2
+tabla4,0,campo1,20,25,campo1,campo2,ENCRIP,campo2
+tabla5,0,campo1,20,25,campo1,campo2,ENCRIP,campo2
+archivoPrueba,1048569,codigo,6,5,5,5,10,codigo,sector,nombre,casado,nacimiento,ENCRIP,nacimiento
+nombre_tabla1,0,campo1,2,2,campo1,campo2,ENCRIP,campo2
